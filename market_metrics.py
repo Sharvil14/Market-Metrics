@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1AwImIfpq6qC1nBSu8KPAabefNe_yvnwx
 """
 
-!pip install numpy PyPDF2 sentence-transformers chromadb colorama pandas tabulate
+#!pip install numpy PyPDF2 sentence-transformers chromadb colorama pandas tabulate
 
 import os
 import re
