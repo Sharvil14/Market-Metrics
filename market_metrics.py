@@ -16,7 +16,7 @@ from typing import List, Dict, Tuple
 import pandas as pd
 #from tabulate import tabulate
 
-import PyPDF2
+#import PyPDF2
 import chromadb
 from sentence_transformers import SentenceTransformer
 from google.colab import files
