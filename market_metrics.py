@@ -17,7 +17,7 @@ import pandas as pd
 #from tabulate import tabulate
 
 #import PyPDF2
-import chromadb
+#import chromadb
 from sentence_transformers import SentenceTransformer
 from google.colab import files
 warnings.filterwarnings('ignore')
